@@ -2,7 +2,7 @@
 
 Welcome to my webpage!
 
-I am a full time postdoctoral scientist affiliated to the Covid Crisis Lab and Dondena research centre.
+I am a full time postdoctoral scientist at Bocconi University, affiliated to the Covid Crisis Lab and Dondena research centre.
 
 Previously, I completed my PhD at the University of Cambridge and a one-year project at Public Health England. 
 
