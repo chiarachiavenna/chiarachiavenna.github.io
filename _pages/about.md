@@ -2,8 +2,9 @@
 
 Welcome to my webpage!
 
-I am affiliated to the Covid Crisis Lab and Dondena research centre as a full time postdoctoral scientist.
-Before, I completed my PhD at the University of Cambridge and a one-year project at Public Health England. 
+I am a full time postdoctoral scientist affiliated to the Covid Crisis Lab and Dondena research centre.
+
+Previously, I completed my PhD at the University of Cambridge and a one-year project at Public Health England. 
 
 My research interests focus on statistical models to make inference from longitudinal observational health data, mostly collected through surveillance systems. 
 
