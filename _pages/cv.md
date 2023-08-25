@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Biostatistics, University of Cambridge (United Kingdom), 2020
+Project: Modelling longitudinal data on respiratory infection to inform health policy
 
-Work experience
+* M.S., Biostatistics and Experimental Statistics, 2015, magna cum laude
+Universita degli Studi di Milano-Bicocca, Milan (Italy)
+Thesis: Laplace regression with censored data: an overview and application to observational data in cardiovascular epidemiology
+
+* B.S., Statistics and Information Management, 2012, magna cum laude
+Universita degli Studi di Milano-Bicocca, Milan (Italy)
+Thesis: Predictors of ischemic lower limb ulcer in dialysis patients: a cohort study
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2021 - present: postdoctoral scientist
+  * Bocconi University, DONDENA centre for research on social dynamics and public policy
+    
+* Jan 2020 - Sept 2021: trial statistician
+  * Public Health England - Statistical unit
+ 
+* Sept 2014 - Oct 2015: intern
+  * Karolinska Institutet - Institute of Environmental Medicine
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, Stata, SPSS, SAS Certied Base Programmer, LaTeX
+* Basic: SQL, Python, OpenBUGS, JAGS, MS Access
 
 Publications
 ======
@@ -54,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
