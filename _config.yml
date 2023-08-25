@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral researcher"
   location         : "Milan, Italy"
   employer         :
-  pubmed           : ""
+  pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=xMxQqhIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
