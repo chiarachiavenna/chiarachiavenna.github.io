@@ -5,7 +5,7 @@ permalink: /publication/plosmed
 date: 2019-10-01
 venue: 'PLoS medicine'
 url: 'https://doi.org/10.1371/journal.pmed.1002829'
-citation: 'Chiavenna, C. et al. (2019). &quot;Estimating age-stratied influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data.&quot; <i>PLoS Medicine</i> 16(6): e1002829'
+citation: 'Chiavenna, C. et al. (2019). &quot;Estimating age-stratified influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data.&quot; <i>PLoS Medicine</i> 16(6): e1002829'
 ---
 
 **Background**
