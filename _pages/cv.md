@@ -41,5 +41,5 @@ Education
 
 Programming
 ======
-* R, Stata, SPSS, SAS Certied Base Programmer, LaTeX
+* R, Stata, SPSS, SAS Certified Base Programmer, LaTeX
 * Basic: SQL, Python, OpenBUGS, JAGS, MS Access
