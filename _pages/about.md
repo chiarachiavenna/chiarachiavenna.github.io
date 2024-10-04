@@ -5,18 +5,10 @@ redirect_from:
   - /resume
 ---
 
-
 Welcome to my webpage!
 
-I am a senior postdoctoral scientist at Bocconi University, affiliated to the Covid Crisis Lab and Dondena research centre.
+I am currently a senior postdoctoral scientist at Bocconi University, affiliated with the Covid Crisis Lab, the Dondena Research Centre.
+Before joining Bocconi in 2021, I earned my **PhD** from the **University of Cambridge** (2020) and completed a year-long project at the UK Health Security Agency.
+Earlier in my academic journey, I obtained a degree in Statistics (2012) and a Master's in Biostatistics (2015) from the University of Milano-Bicocca, and I did an internship at the Karolinska Institute to work on a Master’s thesis project.
 
-My research interests focus on **statistical models** to make inference from longitudinal **observational health data**, mostly collected through surveillance systems. 
-
-Previously, I completed my PhD at the University of Cambridge and a one-year project at Public Health England. 
-
-As a PhD student, I spent 4 years at the MRC Biostatistics Unit, investigating time-series methods to quantify the burden of bacterial respiratory infections secondary to influenza, in seasonal and pandemic settings, from surveillance data. 
-
-At Public Health England, I worked jointly with the Statistics unit and the HIV department, using counterfactual methods to quantify the impact of interventions: I estimated the excess mortality due to COVID-19 and the effectiveness of HIV prophylaxis within the PrEP Impact trial. 
-
-Prior to starting my PhD, I completed a degree in Statistics and a Master's degree in Biostatistics at the University of Milano-Bicocca, and did my Master’s thesis at the Karolinska Institute.
-
+My research centers on **statistical methods** designed to draw inferences from **observational health data**, primarily within the domain of **infectious disease** research. The projects I undertake are always motivated by public health questions, addressing issues such as quantifying disease burden, assessing health policies, and exploring sociodemographic factors.
