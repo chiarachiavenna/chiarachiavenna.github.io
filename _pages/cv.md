@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Current research positions
-======
+
 * July 2024 - present: Senior postdoctoral scientist
   * Bocconi University, DONDENA Centre for Research on Social Dynamics and Public Policy
   * [Bocconi University, Covid Crisis Lab](https://covidcrisislab.unibocconi.eu/people/affiliated-faculty/chiara-chiavenna)
 
 ## Past research positions
-======
+
 * July 2021 - June 2024: Postdoctoral scientist
   * Bocconi University, DONDENA Centre for Research on Social Dynamics and Public Policy
   * Bocconi University, Covid Crisis Lab
