@@ -19,7 +19,7 @@ redirect_from:
 
 * July 2021 - June 2024: **Postdoctoral scientist**   
 DONDENA Centre for Research on Social Dynamics and Public Policy, Bocconi University   
-Covid Crisis Lab, Bocconi University
+Covid Crisis Lab - Laboratory for Coronavirus Crisis Research, Bocconi University
     
 * Jan 2020 - Sept 2021: **Trial statistician**   
 Statistical Unit, Public Health England
@@ -35,9 +35,11 @@ Institute of Environmental Medicine, Karolinska Institutet
 
 * 2015, M.S. in Biostatistics and Experimental Statistics, Universita degli Studi di Milano-Bicocca, Milan (Italy), magna cum laude
   * Thesis: Laplace regression with censored data: an overview and application to observational data in cardiovascular epidemiology
-
+  * Supervisor: Professor Rino Bellocco
+  
 * 2012, B.S. in Statistics and Information Management, Universita degli Studi di Milano-Bicocca, Milan (Italy), magna cum laude
   * Thesis: Predictors of ischemic lower limb ulcer in dialysis patients: a cohort study
+  * Supervisor: Professor Vincenzo Bagnardi
 
 ## Programming
 
