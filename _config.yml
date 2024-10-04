@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : chiarenna
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chiara Chiavenna"
   avatar           : "foto bocconi.jpg"
-  bio              : "Postdoctoral researcher"
+  bio              : "Senior Postdoctoral Researcher"
   location         : "Milan, Italy"
   employer         :
   pubmed           : #
