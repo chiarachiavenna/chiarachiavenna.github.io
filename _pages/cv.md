@@ -29,17 +29,15 @@ Past research positions
 
 Education
 ======
-* Ph.D. in Biostatistics, University of Cambridge (United Kingdom), 2020
-Project: Modelling longitudinal data on respiratory infection to inform health policy
-Advisor: Daniela De Angelis
+* 2020, Ph.D. in Biostatistics, University of Cambridge (United Kingdom)
+  * Project: Modelling longitudinal data on respiratory infection to inform health policy
+  * Advisor: Daniela De Angelis
 
-* M.S., Biostatistics and Experimental Statistics, 2015, magna cum laude
-Universita degli Studi di Milano-Bicocca, Milan (Italy)
-Thesis: Laplace regression with censored data: an overview and application to observational data in cardiovascular epidemiology
+* 2015, M.S. in Biostatistics and Experimental Statistics, Universita degli Studi di Milano-Bicocca, Milan (Italy), magna cum laude
+  * Thesis: Laplace regression with censored data: an overview and application to observational data in cardiovascular epidemiology
 
-* B.S., Statistics and Information Management, 2012, magna cum laude
-Universita degli Studi di Milano-Bicocca, Milan (Italy)
-Thesis: Predictors of ischemic lower limb ulcer in dialysis patients: a cohort study
+* 2012, B.S. in Statistics and Information Management, Universita degli Studi di Milano-Bicocca, Milan (Italy), magna cum laude
+  * Thesis: Predictors of ischemic lower limb ulcer in dialysis patients: a cohort study
 
 Programming
 ======
