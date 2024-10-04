@@ -9,13 +9,13 @@ author_profile: true
 
 ## Peer-reviewed journals
 
-* **HIV pre-exposure prophylaxis and its implementation in the PrEP Impact Trial in England: a pragmatic health technology assessment.**   
-A.K. Sullivan, J. Saunders, M. Desai, A. Cartier, HD. Mitchell, S. Jaffer, D. Ogaz, <ins>C. Chiavenna</ins>, A. Charlett, V. Diamente, R. Golombek, K. Manavi, C. Priestley, L.J. Waters, A. Milinkovic, A. McOwan, C. Estcourt, C.A. Sabin, A. Rodger, D. Gold, B.G. Gazzard, S. McCormack, N. Gill (2023).   
-*The Lancet HIV* 10(12): e790-e806. [[link](https://doi.org/10.1016/S2352-3018(23)00256-4)]
-
 * **Personal risk or societal benefit? Investigating adults’ support for COVID-19 childhood vaccination.**   
 <ins>C. Chiavenna</ins>, L.P. Leone, A. Melegaro, T. Rotesi, S.E. Bokemper, E.E. Paintsil, A.A. Malik, G.A. Huber, S.B. Omer, M. Cucciniello, P. Pin (2023).   
 *Vaccine* 41(25), 3683-3687. [[link](https://doi.org/10.1016/j.vaccine.2023.05.017)]
+
+* **HIV pre-exposure prophylaxis and its implementation in the PrEP Impact Trial in England: a pragmatic health technology assessment.**   
+A.K. Sullivan, J. Saunders, M. Desai, A. Cartier, HD. Mitchell, S. Jaffer, D. Ogaz, <ins>C. Chiavenna</ins>, A. Charlett, V. Diamente, R. Golombek, K. Manavi, C. Priestley, L.J. Waters, A. Milinkovic, A. McOwan, C. Estcourt, C.A. Sabin, A. Rodger, D. Gold, B.G. Gazzard, S. McCormack, N. Gill (2023).   
+*The Lancet HIV* 10(12): e790-e806. [[link](https://doi.org/10.1016/S2352-3018(23)00256-4)]
 
 * **Methods for modelling excess mortality across England during the COVID-19 pandemic.**   
 S. Barnard, <ins>C. Chiavenna</ins>, S. Fox, A. Charlett, Z. Waller, N. Andrews, P. Goldblatt, P. Burton, D. De Angelis (2022).   
