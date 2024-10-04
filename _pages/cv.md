@@ -11,7 +11,7 @@ redirect_from:
 ## Current research positions
 
 * July 2024 - present: **Senior postdoctoral scientist**   
-DONDENA Centre for Research on Social Dynamics and Public Policy, Bocconi University   
+[DONDENA](https://dondena.unibocconi.eu/) Centre for Research on Social Dynamics and Public Policy, Bocconi University   
 [Covid Crisis Lab](https://covidcrisislab.unibocconi.eu/people/) - Laboratory for Coronavirus Crisis Research, Bocconi University   
 
 
