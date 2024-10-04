@@ -8,10 +8,9 @@ redirect_from:
 
 Welcome to my webpage!
 
-I am a full time postdoctoral scientist at Bocconi University, affiliated to the Covid Crisis Lab and Dondena research centre.
+I am a senior postdoctoral scientist at Bocconi University, affiliated to the Covid Crisis Lab and Dondena research centre.
 
 My research interests focus on **statistical models** to make inference from longitudinal **observational health data**, mostly collected through surveillance systems. 
-
 
 Previously, I completed my PhD at the University of Cambridge and a one-year project at Public Health England. 
 
